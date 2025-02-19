@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package><?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_comm</name>
+  <version>0.0.0</version>
+  <description>Delta robot communication node package</description>
+  <maintainer email="bill.winkler@gmail.com">Bill Winkler</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
