@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>delta_robot_msgs</name>
+  <version>0.0.0</version>
+  <description>Custom messages for delta robot commands</description>
+  <maintainer email="bill.winkler@gmail.com">Bill Winkler</maintainer>
+  <license>Apache License 2.0</license>
+
+  <!-- Build and execution dependencies for generating interfaces -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>rosidl_default_generators</build_depend>
+  <exec_depend>rosidl_default_runtime</exec_depend>
+
+  <!-- You can add extra dependencies if your messages reference other packages -->
+  <!-- <depend>std_msgs</depend> -->
+
+  <!-- Declare that this package is an interface package -->
+  <member_of_group>rosidl_interface_packages</member_of_group>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
